@@ -1,6 +1,6 @@
 # Digital-Wallet-Transaction-Analysis
 
-# Objective 
+**Objective**
 
 Analyzed 5,000+ digital wallet transactions using SQL to identify spending trends, user behavior, and high-traffic product categories.
 
