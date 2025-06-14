@@ -1,5 +1,13 @@
 # Digital-Wallet-Transaction-Analysis
 
+# Objective 
+
+Analyzed 5,000+ digital wallet transactions using SQL to identify spending trends, user behavior, and high-traffic product categories.
+
+Evaluated the impact of cashback and loyalty programs on user retention and transaction frequency, providing actionable insights for rewards optimization.
+
+Identified key factors behind transaction failures by analyzing device types, payment methods, and merchant performance to enhance platform reliability and detect anomalies.
+
 📊 **Analyze Spending Behavior (Categories, Merchants, Regions)**
 What are the top 5 product categories by total transaction amount?
 
